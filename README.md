@@ -88,13 +88,13 @@ The classification task will be that of recognizing a 28×28 grayscale handwritt
 
 The environment is designed as a grid-world 5x5:
 
-![image](https://github.com/yash21saraf/Introduction-To-ML-CSE574/images/1.png)
+![image](https://github.com/yash21saraf/Introduction-To-Machine-Learning-CSE574/blob/master/images/1.png)
 
 - States - 25 possible states (0, 0), (0, 1), (0, 2), ... ,(4, 3), (4, 4)
 - Actions - left, right, up, down
 - The goal (yellow square) and the agent (green square) are dynamically changing the initial position on every reset.
 
-![image](https://github.com/yash21saraf/Introduction-To-ML-CSE574/images/2.png)
+![image](https://github.com/yash21saraf/Introduction-To-Machine-Learning-CSE574/blob/master/images/2.png)
 
 
 #### Goal-
@@ -112,5 +112,3 @@ Stable Baselines implementation of DQN, which provides a detailed documentation.
 ***Video Link for results-***
 
 [![Model Performance](https://img.youtube.com/vi/S6v8ZslGe5E/0.jpg)](https://youtu.be/S6v8ZslGe5E)
-# Introduction-To-ML-CSE574
-# Introduction-To-Machine-Learning-CSE574
